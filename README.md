@@ -1,135 +1,205 @@
 # Hi there, I'm Natan 👋
 
-I'm a Developer specializing in the Microsoft ecosystem, with a strong focus on building reliable, maintainable and high-performance applications.
+### Software Developer | .NET & C# Specialist
 
-Over the years I've worked on enterprise systems, legacy modernization, API development, performance optimization and software architecture, always striving to improve code quality and simplify complex business problems.
+I'm a Developer focused on building reliable, maintainable and high-performance applications using the Microsoft ecosystem.
+
+I enjoy solving complex business problems, improving system performance, designing scalable architectures and modernizing legacy applications while keeping code clean and maintainable.
+I also leverage modern AI-powered development tools to improve productivity, software quality and engineering workflows.
 
 ---
 
-## 💻 Tech Stack
+## 🚀 About Me
 
-### Languages
+- 💼 Backend Developer specializing in .NET and C#
+- 🏗 Passionate about Software Architecture and Clean Code
+- ⚡ Performance optimization enthusiast
+- 🔄 Experienced with enterprise and legacy systems
+- 📚 Lifelong learner, always exploring new technologies
+- 🤝 Open to collaboration on interesting projects
+
+---
+
+## 💻 Technical Skills
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 👨‍💻 Languages
 
 - C#
 - SQL
 - JavaScript
 - TypeScript
 
-### Backend
+</td>
 
-- .NET Framework
+<td valign="top" width="33%">
+
+### ⚙️ Backend
+
 - .NET
+- .NET Framework
 - ASP.NET Core
-- Web API
+- Web APIs
 - Entity Framework
-- LINQ
-- REST APIs
+- RESTful Services
 
-### Databases
+</td>
+
+<td valign="top" width="33%">
+
+### 🗄 Databases
 
 - SQL Server
 - DB2
 - Relational Database Design
 - Query Optimization
 
-### Architecture
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🏛 Architecture
 
 - Clean Architecture
 - SOLID Principles
 - Design Patterns
-- Repository Pattern
 - Dependency Injection
 - Layered Architecture
 
-### Tools
+</td>
+
+<td valign="top">
+
+### 🛠 Tools
 
 - Git
-- Visual Studio
-- VS Code
 - Docker
 - Postman
 - Swagger
+- Visual Studio
+- VS Code
+
+</td>
+
+<td valign="top">
+
+### 📖 Methodologies
+
+- Agile Development
+- Code Review
+- Refactoring
+- Performance Analysis
+- Problem Solving
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 What I Enjoy Working On
 
-- Backend Development
-- Software Architecture
-- Performance Optimization
-- API Design
-- Legacy System Modernization
+- Designing scalable backend systems
+- Building REST APIs
+- Performance optimization
+- Refactoring legacy codebases
+- Software architecture
+- Database optimization
 - Clean Code
 - Automation
-- Problem Solving
+- Developer productivity
 
 ---
 
-## 📚 Currently Learning
+## ⭐ Professional Highlights
 
-I'm continuously investing in improving my engineering skills, especially in:
+- ⚡ Optimizing application performance and reducing bottlenecks
+- 🏢 Building and maintaining enterprise backend systems
+- 🔄 Modernizing legacy applications
+- 🧩 Implementing complex business rules
+- 📊 Database performance tuning
+- 🛠 Designing maintainable and scalable solutions
+
+---
+
+## 🌱 Currently Learning
+
+I'm continuously improving my engineering skills in areas such as:
 
 - Microsoft Azure
-- Distributed Systems
 - Cloud Architecture
+- Distributed Systems
 - Microservices
 - CI/CD
-- DevOps Practices
-- Artificial Intelligence applied to Software Development
+- DevOps
+- Artificial Intelligence for Software Development
 
 ---
 
-## 🎯 Engineering Principles
+## 🤖 AI in Software Development
 
-I believe that good software should be:
+I actively leverage AI-powered tools to improve software development workflows, accelerate problem solving and increase code quality.
 
-- Simple
-- Maintainable
-- Performant
-- Well-tested
-- Easy to understand
-- Built to solve real business problems
+Areas where I use AI include:
+
+- Code generation and refactoring
+- Architecture discussions
+- Code review assistance
+- Documentation
+- Automation
+- Rapid prototyping
 
 ---
 
-## 📈 Current Goals
+## 🎯 Current Goals
 
-- Deepen cloud architecture knowledge
+- Deepen expertise in cloud-native applications
 - Build more open-source projects
 - Contribute to the .NET community
-- Continuously improve software design skills
+- Improve software architecture skills
+- Share knowledge with other developers
+- Explore AI-driven software engineering workflows
+- Improve prompt engineering techniques
+- Integrate AI into development and automation processes
 
 ---
 
-## Highlights
+## 💡 Engineering Philosophy
 
-- ⚡ Performance optimization in enterprise applications
-- 🏗️ Design and maintenance of enterprise backend systems
-- 🔄 Legacy system modernization
-- 🧩 Complex business rule implementation
-- 🛠️ Database optimization and troubleshooting
+I believe great software should be:
+
+- Simple
+- Reliable
+- Maintainable
+- Performant
+- Easy to understand
+- Focused on solving real business problems
+
+---
+
+## 📈 GitHub Goals
+
+Projects are coming soon 🚀
+
+Open to new partnerships!
 
 ---
 
 ## 🤝 Let's Connect
 
-Feel free to connect or collaborate on interesting projects.
-
-I'm always interested in discussing:
+I'm always happy to connect with other developers and discuss topics like:
 
 - .NET
+- C#
+- Backend Development
 - Software Architecture
-- Performance
+- Performance Optimization
 - Clean Code
-- Backend Engineering
+- Cloud Technologies
+
 ---
-
-## Areas of Interest
-
-- Software Engineering
-- Distributed Systems
-- Domain-Driven Design
-- Event-Driven Architecture
-- Cloud Native Applications
-- Artificial Intelligence
-- Developer Productivity
